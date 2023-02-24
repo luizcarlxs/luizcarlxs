@@ -10,20 +10,9 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=talissonEloia&theme=gotham)
 -->
 
-![Snake](https://github.com/luizcarlxs/luizcarlxs/blob/output/github-contribution-grid-snake.svg)
-
-
-<div align="center">  
-<a href="https://www.instagram.com/talissoneloia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
-
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Microsoft SQL Server]([https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white](https://damassets.autodesk.net/content/dam/autodesk/estore/products/rdlockups/revit-2019-white-lockup-850x94.png))&nbsp;
-![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+![PowerBi](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 
 
 ### Tools:
@@ -34,8 +23,6 @@
   
 ### Studying in this moment:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![SparkAR](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)&nbsp;
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
