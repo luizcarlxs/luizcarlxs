@@ -12,7 +12,8 @@
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![PowerBi](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![Autodesk](https://img.shields.io/badge/Matlab-182C61?style=for-the-badge&logo=mathworks&logoColor=white)&nbsp;
 
 
 ### Tools:
