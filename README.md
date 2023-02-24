@@ -10,7 +10,7 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=talissonEloia&theme=gotham)
 -->
 
-![Snake](https://github.com/talissonEloia/talissonEloia/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/luizcarlxs/luizcarlxs/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">  
